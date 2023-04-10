@@ -1,0 +1,28 @@
+body{
+    background-color: 	#D6E2F0;
+    text-align: center;
+    margin: 200px auto 200px;
+    font-size: small;
+}
+h3{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400,700;
+    font-size: 1.25rem;
+}
+p{
+    color: #7B879D;
+    font-family: 'Outfit', sans-serif;
+    padding: 0 10px 0;
+}
+.sub{
+    background-color: white;
+    width: 250px;
+    margin:auto;
+    padding-top: 10px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.image{
+    width: 225px;
+    border-radius: 8px;
+}
